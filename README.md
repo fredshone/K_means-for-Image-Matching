@@ -6,7 +6,9 @@ Implementation of Image Matching in Processing 3 using K-Means. There are two ou
 1. **satelite_images** first implementation used for distinguishing between urban and non-urban satelite images
 
 ![alt text](/data/LDN.jpg "Target Image")
+
 I also tried it out (without retuning) on:
+
 2. **picasso_images**
 3. **google_images**
 ## So What?
