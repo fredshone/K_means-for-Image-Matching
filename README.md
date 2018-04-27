@@ -21,9 +21,11 @@ Just for fun (without retuning any parametres) I implemented the above on some P
 
 Target Image             |  Best Match  | Worst Match
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/fredshone/K_means-for-Image-Matching/blob/master/picasso_images/data/target.jpg "Target Image")  |  ![](https://github.com/fredshone/K_means-for-Image-Matching/blob/master/picasso_images/data/Image_3.jpg "Test Image") | ![](https://github.com/fredshone/K_means-for-Image-Matching/blob/master/picasso_images/data/Image_10.jpg "Test Image")
+![](https://github.com/fredshone/K_means-for-Image-Matching/blob/master/picasso_images/data/target.jpg "Target Image")  |  ![](http://upload.wikimedia.org/wikipedia/commons/1/16/Whitehousenight.jpg "Test Image") | ![](http://upload.wikimedia.org/wikipedia/commons/8/8e/William_Ewart_Gladstone_by_Prince_Pierre_Troubetskoy.jpg "Test Image")
+
 ### google_images
 Also just for fun (again without retuning any parametres) I implemented on some smaller images grabbed from google:
+
 Target Image             |  Best Match  | Worst Match
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/fredshone/K_means-for-Image-Matching/blob/master/google_images/data/target.jpg "Target Image")  |  ![](https://github.com/fredshone/K_means-for-Image-Matching/blob/master/google_images/data/Image_19.jpg "Test Image") | ![](https://github.com/fredshone/K_means-for-Image-Matching/blob/master/google_images/data/Image_42.jpg "Test Image")
