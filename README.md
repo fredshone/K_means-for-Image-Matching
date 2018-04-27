@@ -22,15 +22,11 @@ Just for fun (without retuning any parametres) I implemented the above on some V
 
 Target Image             |  Best Match  | Worst Match
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/fredshone/K_means-for-Image-Matching/blob/master/picasso_images/data/target.jpg" height="100" width="100">  |  <img src="http://upload.wikimedia.org/wikipedia/commons/1/16/Whitehousenight.jpg" height="100" width="100"> | <img src="http://upload.wikimedia.org/wikipedia/commons/8/8e/William_Ewart_Gladstone_by_Prince_Pierre_Troubetskoy.jpg" height="100" width="100">
-
-Target Image             |  Best Match  | Worst Match
-:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/fredshone/K_means-for-Image-Matching/blob/master/picasso_images/data/target.jpg "Target Image" height="100" width="100")  |  ![](http://upload.wikimedia.org/wikipedia/commons/1/16/Whitehousenight.jpg "Test Image" height="100" width="100") | ![](http://upload.wikimedia.org/wikipedia/commons/8/8e/William_Ewart_Gladstone_by_Prince_Pierre_Troubetskoy.jpg "Test Image" height="100" width="100")
+<img src="https://github.com/fredshone/K_means-for-Image-Matching/blob/master/picasso_images/data/target.jpg" height="1000" width="1000">  |  <img src="http://upload.wikimedia.org/wikipedia/commons/7/75/Vincent_Willem_van_Gogh_044.jpg" height="1000" width="1000"> | <img src="http://upload.wikimedia.org/wikipedia/commons/8/8e/William_Ewart_Gladstone_by_Prince_Pierre_Troubetskoy.jpg" height="1000" width="1000">
 
 ### google_images
 Also just for fun (again without retuning any parametres) I implemented on some smaller images grabbed from google:
 
 Target Image             |  Best Match  | Worst Match
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/fredshone/K_means-for-Image-Matching/blob/master/google_images/data/target.jpg "Target Image")  |  ![](https://github.com/fredshone/K_means-for-Image-Matching/blob/master/google_images/data/Image_19.jpg "Test Image") | ![](https://github.com/fredshone/K_means-for-Image-Matching/blob/master/google_images/data/Image_42.jpg "Test Image")
+<img src="https://github.com/fredshone/K_means-for-Image-Matching/blob/master/google_images/data/target.jpg" height="1000" width="1000">  |  <img src="https://github.com/fredshone/K_means-for-Image-Matching/blob/master/google_images/data/Image_19.jpg" height="1000" width="1000"> | <img src="https://github.com/fredshone/K_means-for-Image-Matching/blob/master/google_images/data/Image_42.jpg" height="1000" width="1000">
