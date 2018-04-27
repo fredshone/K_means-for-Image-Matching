@@ -21,7 +21,7 @@ Just for fun (without retuning any parametres) I implemented the above on some V
 
 Target Image             |  Best Match  | Worst Match
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/fredshone/K_means-for-Image-Matching/blob/master/picasso_images/data/target.jpg "Target Image" | width=100)  |  ![](http://upload.wikimedia.org/wikipedia/commons/1/16/Whitehousenight.jpg "Test Image" | width=100) | ![](http://upload.wikimedia.org/wikipedia/commons/8/8e/William_Ewart_Gladstone_by_Prince_Pierre_Troubetskoy.jpg "Test Image" | width=100)
+![](https://github.com/fredshone/K_means-for-Image-Matching/blob/master/picasso_images/data/target.jpg "Target Image" height="100" width="100")  |  ![](http://upload.wikimedia.org/wikipedia/commons/1/16/Whitehousenight.jpg "Test Image" height="100" width="100") | ![](http://upload.wikimedia.org/wikipedia/commons/8/8e/William_Ewart_Gladstone_by_Prince_Pierre_Troubetskoy.jpg "Test Image" height="100" width="100")
 
 ### google_images
 Also just for fun (again without retuning any parametres) I implemented on some smaller images grabbed from google:
