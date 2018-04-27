@@ -5,9 +5,9 @@ Implementation of Image Matching in Processing 3 using K-Means. There are two ou
 ### Versions
 1. **satelite_images** first implementation used for distinguishing between urban and non-urban satelite images
 
-Target Image             |  And the Winner is...
-:-------------------------:|:-------------------------:
-![](https://github.com/fredshone/K_means-for-Image-Matching/blob/master/satellite_images/data/LDN.jpg "Target Image")  |  ![](https://github.com/fredshone/K_means-for-Image-Matching/blob/master/satellite_images/data/Image_3.jpg "Test Image")
+Target Image             |  Best Match  | Worst Match
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/fredshone/K_means-for-Image-Matching/blob/master/satellite_images/data/LDN.jpg "Target Image")  |  ![](https://github.com/fredshone/K_means-for-Image-Matching/blob/master/satellite_images/data/Image_3.jpg "Test Image") | ![](https://github.com/fredshone/K_means-for-Image-Matching/blob/master/satellite_images/data/Image_5.jpg "Test Image")
 
 I also tried it out (without retuning) on:
 
