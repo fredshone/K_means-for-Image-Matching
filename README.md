@@ -16,12 +16,12 @@ Target Image             |  Best Match  | Worst Match
 ![](https://github.com/fredshone/K_means-for-Image-Matching/blob/master/satellite_images/data/LDN.jpg "Target Image")  |  ![](https://github.com/fredshone/K_means-for-Image-Matching/blob/master/satellite_images/data/Image_3.jpg "Test Image") | ![](https://github.com/fredshone/K_means-for-Image-Matching/blob/master/satellite_images/data/Image_5.jpg "Test Image")
 
 Works pretty well, although the effectiveness of the `Object Counting` methods are questionable.
-### picasso_images
-Just for fun (without retuning any parametres) I implemented the above on some Picassos. Note that the images are loaded from URLs grabbed from Kaggle. **Warning** - the images are huge so either limit the test or allow Processing to use more bytes in `Preferences`.
+### van_gogh_images
+Just for fun (without retuning any parametres) I implemented the above on some Vincent Van Goghs. Note that the images are loaded from URLs grabbed from [Kaggle](https://www.kaggle.com/gfolego/vangogh). **Warning** - the images are huge so either limit the test or allow Processing to use more bytes in `Preferences`.
 
 Target Image             |  Best Match  | Worst Match
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/fredshone/K_means-for-Image-Matching/blob/master/picasso_images/data/target.jpg "Target Image")  |  ![](http://upload.wikimedia.org/wikipedia/commons/1/16/Whitehousenight.jpg "Test Image") | ![](http://upload.wikimedia.org/wikipedia/commons/8/8e/William_Ewart_Gladstone_by_Prince_Pierre_Troubetskoy.jpg "Test Image")
+![](https://github.com/fredshone/K_means-for-Image-Matching/blob/master/picasso_images/data/target.jpg "Target Image" | width=100)  |  ![](http://upload.wikimedia.org/wikipedia/commons/1/16/Whitehousenight.jpg "Test Image" | width=100) | ![](http://upload.wikimedia.org/wikipedia/commons/8/8e/William_Ewart_Gladstone_by_Prince_Pierre_Troubetskoy.jpg "Test Image" | width=100)
 
 ### google_images
 Also just for fun (again without retuning any parametres) I implemented on some smaller images grabbed from google:
